@@ -149,6 +149,16 @@ export const CERTIFICATIONS: Certification[] = [
     description: "Hybrid cloud management and expert-level database administration.",
     imageUrl: "/certificates/database.png",
     credentialLink: "#"
+  },
+
+  {
+    id: 9,
+    name: "CSS NC II",
+    issuer: "TESDA Philippines",
+    year: "2019",
+    description: "Computer Hardware and Software management and troubleshooting",
+    imageUrl: "/certificates/logov2.1.png",
+    credentialLink: "#"
   }
 ];
 
