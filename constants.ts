@@ -5,8 +5,8 @@ export const NAME = "Rostom Siervo";
 export const TITLE = "Web Developer & Networking Professional";
 export const SHORT_BIO = "Bridging the gap between software development and network infrastructure. I build robust, scalable web applications and ensure the systems they run on are secure and efficient.";
 
-export const RESUME_LINK = "/assets/Resume_Rostom_Siervo.pdf"; 
-export const PROFILE_IMAGE = "/assets/profile.png";
+export const RESUME_LINK = "/Resume_Rostom_Siervo.pdf"; 
+export const PROFILE_IMAGE = "/profile.png";
 
 export const AVAILABILITY_STATUSES = [
   "Available for Hire",
@@ -93,7 +93,7 @@ export const CERTIFICATIONS: Certification[] = [
     issuer: "Oracle",
     year: "2025",
     description: "Mastery of CI/CD pipelines, Infrastructure as Code, and automation on Oracle Cloud.",
-    imageUrl: "/assets/certificates/devops.png", 
+    imageUrl: "/certificates/devops.png", 
     credentialLink: "#"
   },
   {
@@ -102,7 +102,7 @@ export const CERTIFICATIONS: Certification[] = [
     issuer: "Oracle",
     year: "2025",
     description: "Advanced architecture of virtual cloud networks, connectivity, and load balancing.",
-    imageUrl: "/assets/certificates/networking.png",
+    imageUrl: "/certificates/networking.png",
     credentialLink: "#"
   },
   {
@@ -111,7 +111,7 @@ export const CERTIFICATIONS: Certification[] = [
     issuer: "Oracle",
     year: "2025",
     description: "Fundamental concepts of public cloud, OCI services, and security basics.",
-    imageUrl: "/assets/certificates/associate.png",
+    imageUrl: "/certificates/associate.png",
     credentialLink: "#"
   },
   {
@@ -120,7 +120,7 @@ export const CERTIFICATIONS: Certification[] = [
     issuer: "Cisco Networking Academy",
     year: "2025",
     description: "Core programming logic and JavaScript fundamentals for network automation.",
-    imageUrl: "/assets/certificates/js.png",
+    imageUrl: "/certificates/js.png",
     credentialLink: "#"
   },
   {
@@ -129,7 +129,7 @@ export const CERTIFICATIONS: Certification[] = [
     issuer: "Oracle",
     year: "2025",
     description: "Cloud-native application development, serverless functions, and secure coding.",
-    imageUrl: "/assets/certificates/dev prof.png",
+    imageUrl: "/certificates/dev prof.png",
     credentialLink: "#"
   },
   {
@@ -138,7 +138,7 @@ export const CERTIFICATIONS: Certification[] = [
     issuer: "Oracle",
     year: "2025",
     description: "High-level design of enterprise-grade, resilient, and high-availability cloud systems.",
-    imageUrl: "/assets/certificates/architect.png",
+    imageUrl: "/certificates/architect.png",
     credentialLink: "#"
   },
   {
@@ -147,7 +147,7 @@ export const CERTIFICATIONS: Certification[] = [
     issuer: "Oracle & AWS",
     year: "2025",
     description: "Hybrid cloud management and expert-level database administration.",
-    imageUrl: "/assets/certificates/database.png",
+    imageUrl: "/certificates/database.png",
     credentialLink: "#"
   }
 ];
@@ -248,7 +248,7 @@ export const PROJECTS: Project[] = [
     title: "File Management System",
     description: "Fully featured Django app with file editing, version control, and role-based permissions.",
     technologies: ["Django", "PostgreSQL", "JavaScript"],
-    imageUrl: "/assets/logov2.1.png",
+    imageUrl: "/logov2.1.png",
     github: "#",
     link: "#"
   },
@@ -257,7 +257,7 @@ export const PROJECTS: Project[] = [
     title: "Medical AI Assistant",
     description: "AI-assisted image analysis platform with Django frontend and REST backend.",
     technologies: ["Django", "REST API", "AI"],
-    imageUrl: "/assets/logov2.1.png",
+    imageUrl: "/logov2.1.png",
     github: "#",
     link: "#"
   },
@@ -266,7 +266,7 @@ export const PROJECTS: Project[] = [
     title: "Dr. Tom AI",
     description: "A medical assistant powered by Gemini AI, providing real-time health insights.",
     technologies: ["Gemini AI", "Python", "Django"],
-    imageUrl: "/assets/logov2.1.png",
+    imageUrl: "/logov2.1.png",
     github: "#",
     link: "#"
   },
@@ -276,16 +276,16 @@ export const PROJECTS: Project[] = [
     title: "Smart Queing System",
     description: "A smart queing with AI integration.",
     technologies: ["Gemini AI", "Python", "Django", "Typescript", "React"],
-    imageUrl: "/assets/logov2.1.png",
+    imageUrl: "/logov2.1.png",
     github: "#",
     link: "#"
   }
 ];
 
 export const SOCIAL_LINKS = {
-  github: "https://github.com/",
+  github: "https://github.com/RSiervo",
   linkedin: "https://linkedin.com/",
-  facebook: "https://facebook.com/",
+  facebook: "https://facebook.com/rostomdevdotnet",
   instagram: "https://instagram.com/",
   messenger: "https://m.me/",
   email: "mailto:rostomdevdotnet@gmail.com"
