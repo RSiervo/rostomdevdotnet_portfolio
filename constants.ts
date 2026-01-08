@@ -289,6 +289,16 @@ export const PROJECTS: Project[] = [
     imageUrl: "/logov2.1.png",
     github: "#",
     link: "#"
+  },
+
+  {
+    id: 5,
+    title: "Cattleya Resort",
+    description: "A smart website and booking for cattleya resort",
+    technologies: ["Gemini AI", "Typescript", "React", "Vite", "AI Integration"],
+    imageUrl: "/cattleya.jpg",
+    github: "https://github.com/RSiervo/cattleya-resort",
+    link: "cattleya-resort.vercel.app"
   }
 ];
 
@@ -297,7 +307,7 @@ export const SOCIAL_LINKS = {
   linkedin: "https://linkedin.com/",
   facebook: "https://facebook.com/rostomdevdotnet",
   instagram: "https://instagram.com/",
-  messenger: "https://m.me/",
+  messenger: "https://m.me/@rostomdevdotnet",
   email: "mailto:rostomdevdotnet@gmail.com"
 };
 
