@@ -65,7 +65,7 @@ const About: React.FC = () => {
                       style={{ transform: `perspective(1000px) rotateY(${mousePos.x * 0.5}deg) rotateX(${mousePos.y * -0.5}deg)` }}
                     >
                       <img 
-                        src={"/assets/profile.jpg"} 
+                        src={"/profile.jpg"} 
                         alt={NAME} 
                         className="w-full h-full object-cover grayscale-[0.2] hover:grayscale-0 transition-all duration-700"
                         onError={(e) => { (e.target as HTMLImageElement).src = "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=800&q=80"; }}

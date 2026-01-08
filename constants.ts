@@ -6,7 +6,7 @@ export const TITLE = "Web Developer & Networking Professional";
 export const SHORT_BIO = "Bridging the gap between software development and network infrastructure. I build robust, scalable web applications and ensure the systems they run on are secure and efficient.";
 
 export const RESUME_LINK = "/Resume_Rostom_Siervo.pdf"; 
-export const PROFILE_IMAGE = "/logo/profile.png";
+export const PROFILE_IMAGE = "/profile.jpg";
 
 export const AVAILABILITY_STATUSES = [
   "Available for Hire",
