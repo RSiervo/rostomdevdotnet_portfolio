@@ -287,7 +287,7 @@ export const PROJECTS: Project[] = [
     description: "A smart queing with AI integration.",
     technologies: ["Gemini AI", "Python", "Django", "Typescript", "React"],
     imageUrl: "/logov2.1.png",
-    github: "#",
+    github: "https://github.com/RSiervo/Smart-Queing-Final",
     link: "#"
   },
 
