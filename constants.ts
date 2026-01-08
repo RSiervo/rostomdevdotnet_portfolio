@@ -299,6 +299,16 @@ export const PROJECTS: Project[] = [
     imageUrl: "/cattleya.jpg",
     github: "https://github.com/RSiervo/cattleya-resort",
     link: "cattleya-resort.vercel.app"
+  },
+
+   {
+    id: 5,
+    title: "Street Food Website And Ordering System",
+    description: "A website for roldan's street food with ordering and AI integrations.",
+    technologies: ["Gemini AI", "Typescript", "React", "Vite", "AI Integration"],
+    imageUrl: "/logov2.1.png",
+    github: "https://github.com/RSiervo/roldan_street_foods",
+    link: "roldan-street-foods.vercel.app"
   }
 ];
 
