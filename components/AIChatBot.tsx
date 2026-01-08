@@ -84,7 +84,7 @@ const AIChatBot: React.FC = () => {
                 <Bot size={20} />
               </div>
               <div className="flex flex-col">
-                 <span className="font-bold text-sm leading-tight">Rostom AI</span>
+                 <span className="font-bold text-sm leading-tight">TOM AI</span>
                  <span className="text-[10px] text-white/80 leading-tight">Portfolio Assistant</span>
               </div>
             </div>
