@@ -208,7 +208,7 @@ export const WORK_PROCESS = [
 
 export const TESTIMONIALS = [
   {
-    name: "Dr. A. Santos",
+    name: "Dr. Jose Ariel E. Gerianne",
     role: "Capstone Adviser",
     text: "Rostom showed exceptional leadership and technical ability during his capstone project."
   }
